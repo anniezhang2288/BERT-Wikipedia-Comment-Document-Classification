@@ -1,5 +1,14 @@
 # BERT-Wikipedia-Comment-Document-Classification
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 ## Overview
 This Python notebook is a sophisticated implementation of the BERT (Bidirectional Encoder Representations from Transformers) model, using TensorFlow, PyTorch, Keras, and the Hugging Face library. It's designed for the nuanced task of syntactic analysis of Wikipedia comments, utilizing the Corpus of Linguistic Acceptability (CoLA) dataset. The project demonstrates advanced NLP techniques by fine-tuning BERT with the BertForSequenceClassification class, achieving an impressive Matthews Correlation Coefficient (MCC) of 0.540.
 
@@ -28,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-For more information or inquiries, please contact [email@email.com](mailto:email@email.com).
+For more information or inquiries, please contact [anniezhang2288@berkeley.edu](mailto:anniezhang2288@berkeley.edu).
