@@ -10,12 +10,12 @@
 
 
 ## Overview
-This Python notebook is a sophisticated implementation of the BERT (Bidirectional Encoder Representations from Transformers) model, using TensorFlow, PyTorch, Keras, and the Hugging Face library. It's designed for the nuanced task of syntactic analysis of Wikipedia comments, utilizing the Corpus of Linguistic Acceptability (CoLA) dataset. The project demonstrates advanced NLP techniques by fine-tuning BERT with the BertForSequenceClassification class, achieving an impressive Matthews Correlation Coefficient (MCC) of 0.540.
+This Python notebook is an implementation of the BERT (Bidirectional Encoder Representations from Transformers) model, using TensorFlow, PyTorch, Keras, and the Hugging Face library. It's designed for syntactic analysis of Wikipedia comments, utilizing the Corpus of Linguistic Acceptability (CoLA) dataset. By fine-tuning BERT with the BertForSequenceClassification class, it achieves an MCC score of 0.540.
 
 ## Features
 - **Advanced NLP Modeling**: Utilizes BERT for deep syntactic understanding.
 - **Fine-Tuning**: Employs BertForSequenceClassification for precise model adaptation.
-- **High Performance**: Achieves a notable MCC of 0.540, indicating strong model accuracy.
+- **High Performance**: Achieves MCC of 0.540, indicating strong model accuracy.
 - **GPU Acceleration**: Leverages GPU for efficient training and evaluation.
 
 ## Technical Implementation
